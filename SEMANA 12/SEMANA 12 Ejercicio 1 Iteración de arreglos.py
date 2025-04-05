@@ -9,3 +9,5 @@ for lista1, lista2, lista3 in zip(lista1, lista2, lista3):
 
 
 
+
+
